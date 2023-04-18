@@ -1,0 +1,1 @@
+import{y as t,o as c,c as s,bs as e,m as n}from"./main.28eac655.js";const o={},r=n("p",null,"inspector",-1),a=[r];function _(i,l){return c(),s("section",null,a)}typeof e=="function"&&e(o);const p=t(o,[["render",_]]);export{p as default};
